@@ -1,7 +1,7 @@
 name: flutter_amplify_helper
-description: A new Flutter package project.
+description: Amplify helper service to speed up the developement using amazon web services
 version: 0.0.1
-homepage: Flutter Amplify Helper
+homepage: https://github.com/dfourcfive/flutter_amplify_helper
 
 environment:
   sdk: ">=2.17.1 <3.0.0"
