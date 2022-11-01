@@ -1,6 +1,6 @@
 name: flutter_amplify_helper
 description: Amplify helper service to speed up the developement using amazon web services
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/dfourcfive/flutter_amplify_helper
 
 environment:

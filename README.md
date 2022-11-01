@@ -24,7 +24,7 @@ https://docs.amplify.aws/start/q/integration/flutter/
 Install the package and import the file ``FlutterAmplifyHelper`` 
 
 ```dart
-  await Get.putAsync<AmplifyService>(
+  await Get.putAsync<FlutterAmplifyHelper>(
       () => FlutterAmplifyHelper().init<ModelProvider>(amplifyConfig: amplifyconfig, modelProvider: ModelProvider.instance));;
 ```
 
