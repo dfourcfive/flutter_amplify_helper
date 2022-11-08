@@ -1,3 +1,5 @@
-## 0.0.1
+## 0.0.3
 
-* TODO: Describe initial release.
+* add isLoggedIn,isSessionExpired,hasNetwork helper variables.
+* add streams for auth and datastore changes
+* update the init function and give the option to enable the usage of datastore or API
