@@ -1,5 +1,25 @@
+# flutter_amplify_helper
+
 
 a small class helper (Getx service) that facilitate and speed up the development mobile apps with amazon web services
+
+link to pub.dev:
+https://pub.dev/packages/flutter_amplify_helper
+## Installation
+
+Run this command:
+With Flutter:
+
+```bash
+ $ flutter pub add flutter_amplify_helper
+```
+This will add a line like this to your package's pubspec.yaml (and run an implicit dart pub get):
+
+```bash
+dependencies:
+  flutter_amplify_helper: ^latest_version
+```
+
 
 ## Features
 -  To get the sub id from the current user :
